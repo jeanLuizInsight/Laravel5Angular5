@@ -1,0 +1,38 @@
+{
+  "shape": {
+    "dimension": {
+      "maxWidth": 32,
+      "maxHeight": 32,
+      "precision": 2,
+      "attributes": false
+    },
+    "spacing": {
+      "padding": 0,
+      "box": "content"
+    },
+    "transform": [{
+      "svgo": {
+        "plugins ": [{
+          "removeAttrs": {
+            "attrs": ["fill", "fill-rule", "stroke", "class", "style"]
+          },
+          "removeStyleElement": true
+        }]
+      }
+    }]
+  },
+  "mode": {
+    "defs": {
+      "dest": "./src/assets",
+      "sprite": "sprite.svg",
+      "bust": false,
+      "example": false
+    }
+  },
+  "svg": {
+    "xmlDeclaration": true,
+    "doctypeDeclaration": true,
+    "namespaceIDs": true,
+    "dimensionAttributes": true
+  }
+}

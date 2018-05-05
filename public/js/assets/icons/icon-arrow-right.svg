@@ -1,0 +1,49 @@
+<svg width="7" height="15" viewBox="0 0 7 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Vector</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(102 2157)">
+<rect x="-102" y="-2157" width="7" height="15" fill="#E5E5E5"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -443 -2278L 837 -2278L 837 -1510L -443 -1510L -443 -2278Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Recursos Humanos" clip-path="url(#clip-0)">
+<path d="M -443 -2278L 837 -2278L 837 -1510L -443 -1510L -443 -2278Z" fill="#FFFFFF"/>
+<g id="Background">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-442 -2278)" fill="#F7F7F7"/>
+</g>
+</g>
+<g id="Group 25">
+<g id="Union" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(-383 -2192)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(-383 -2192)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(-383 -2192)" fill="#000000" fill-opacity="0.05"/>
+</g>
+</g>
+<g id="Group 6.4">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="matrix(1 -2.4521e-16 2.44649e-16 1 -102 -2157)" fill="#000000" fill-opacity="0.1"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-386" y="-2195" width="330" height="181" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="4" dy="4"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 1280 0L 1280 768L 0 768L 0 0Z"/>
+<path id="path1_fill" d="M 314.313 8.302C 315.312 8.78906 316 9.81421 316 11L 316 164C 316 165.657 314.657 167 313 167L 3 167C 1.34314 167 0 165.657 0 164L 0 11C 0 9.34326 1.34314 8 3 8L 298.485 8L 306.485 0L 314.313 8.302Z"/>
+<path id="path2_stroke_2x" d="M 314.313 8.302L 313.586 8.98803L 313.711 9.12081L 313.875 9.2008L 314.313 8.302ZM 298.485 8L 298.485 9L 298.9 9L 299.192 8.7071L 298.485 8ZM 306.485 0L 307.213 -0.686031L 306.506 -1.4353L 305.778 -0.707104L 306.485 0ZM 313.875 9.2008C 314.543 9.5267 315 10.211 315 11L 317 11C 317 9.41742 316.081 8.05143 314.752 7.4032L 313.875 9.2008ZM 315 11L 315 164L 317 164L 317 11L 315 11ZM 315 164C 315 165.104 314.105 166 313 166L 313 168C 315.209 168 317 166.209 317 164L 315 164ZM 313 166L 3 166L 3 168L 313 168L 313 166ZM 3 166C 1.89545 166 1 165.104 1 164L -1 164C -1 166.209 0.790828 168 3 168L 3 166ZM 1 164L 1 11L -1 11L -1 164L 1 164ZM 1 11C 1 9.89552 1.89545 9 3 9L 3 7C 0.790828 7 -1 8.791 -1 11L 1 11ZM 3 9L 298.485 9L 298.485 7L 3 7L 3 9ZM 299.192 8.7071L 307.192 0.707104L 305.778 -0.707104L 297.778 7.2929L 299.192 8.7071ZM 305.758 0.686031L 313.586 8.98803L 315.041 7.61597L 307.213 -0.686031L 305.758 0.686031Z"/>
+<path id="path3_fill" d="M 1.84872 0.350704C 1.84872 0.350704 1.84872 0.350704 1.84872 0.350704C 0.780885 -0.712253 -0.514122 0.882159 0.403167 1.93269C 0.403167 1.93269 0.403167 1.93269 0.403167 1.93269C 0.887027 2.48684 2.16691 3.8893 3.26841 5.09093C 4.30708 6.22403 4.32673 7.95854 3.30013 9.10259C 2.22759 10.2979 0.967923 11.6827 0.403167 12.2325C 0.403167 12.2325 0.403167 12.2325 0.403167 12.2325C -0.675964 13.283 0.61901 15.0545 1.84872 13.8144C 1.84872 13.8144 1.84872 13.8144 1.84872 13.8144C 2.58862 13.0683 4.66509 10.7829 6.20186 9.0807C 7.22743 7.94472 7.22742 6.22094 6.2018 5.085C 4.62905 3.34307 2.49757 0.99659 1.84872 0.350704Z"/>
+</defs>
+</svg>

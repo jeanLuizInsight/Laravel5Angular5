@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-114 642 71 71">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#2a3143}.cls-3{fill:#f1a93b}
+        </style>
+    </defs>
+    <g id="icon-check-ani" transform="translate(2553 751)">
+        <g id="Group_16" data-name="Group 16">
+            <path id="Path_402" d="M54.244 5.423A35.5 35.5 0 1 0 65.5 16.669a2.487 2.487 0 0 0-4.22 2.631A30.245 30.245 0 0 1 57 57.066 30.485 30.485 0 1 1 51.613 9.64a2.485 2.485 0 1 0 2.631-4.217z" class="cls-2" data-name="Path 402" transform="translate(-2667 -109)"/>
+            <path id="Path_401" d="M4.283 23.852A2.508 2.508 0 0 0 .734 27.4L12.3 38.947a2.452 2.452 0 0 0 1.774.733h.126a2.8 2.8 0 0 0 1.836-.917L44.974 4.111a2.577 2.577 0 0 0-.306-3.544 2.584 2.584 0 0 0-3.549.306L13.89 33.447z" class="cls-3" data-name="Path 401" transform="translate(-2650.45 -99.438)"/>
+        </g>
+    </g>
+</svg>
